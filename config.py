@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-TOKEN = "8010319526:AAFtrg4ifAiczDM5V2-enUmQvWkguX2s0AE"
+TOKEN = "توکن عددی خود را واردکنید"
 
 # مسیرهای فایل‌ها
 EXCEL_DIR = "excel_files"
